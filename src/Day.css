@@ -1,0 +1,14 @@
+.box {
+	width:10px;
+	height:10px;
+  border: solid 1px white;
+  /*display: inline-block*/
+}
+
+.grey {
+  background-color: #d3d3d3;
+}
+
+.green {
+  background: green;
+}
